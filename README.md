@@ -27,10 +27,4 @@ A prototype clinical support tool that records a patient's spoken response, tran
 
 Python · PyTorch · Hugging Face Transformers · Datasets · scikit-learn · SpeechRecognition · ffmpeg · Google Colab
 
-## ⚠️ Disclaimer
 
-This notebook is a **prototype / research tool** and is **not a validated diagnostic or clinical instrument**. Its keyword list and sentiment thresholds have not been clinically calibrated, and outputs should never be used as a substitute for professional judgement. Any flagged result should be reviewed by a qualified clinician before any action is taken. If you or someone you know is in crisis, contact a crisis line such as Lifeline (13 11 14 in Australia) immediately.
-
-## Collaborators
-
-_Add collaborator names/links here if applicable._
