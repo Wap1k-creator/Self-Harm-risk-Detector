@@ -1,1 +1,0 @@
-# Self-Harm-risk-Detector
